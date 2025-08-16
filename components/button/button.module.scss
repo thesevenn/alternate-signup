@@ -1,0 +1,17 @@
+@import "../../app/variables.scss";
+
+.button {
+	background-color: $brand-color;
+	color: $background;
+	font-size: 16px;
+	text-transform: capitalize;
+	padding: 14px 32px;
+	letter-spacing: 0.16px;
+	max-width: 185px;
+	transition: all 0.2s ease-in;
+	cursor: pointer;
+
+	&:hover {
+		filter: brightness(1.1);
+	}
+}
