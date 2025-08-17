@@ -1,5 +1,7 @@
 # Alternate Signup (Next.js + SCSS)
 
+Checkout demo here: [Live Demo](https://alternate-signup.netlify.app)
+
 ![Alternate Signup Demo - Desktop View](./public/demo-desktop.png)
 ![Alternate Signup Demo - Mobile View](./public/demo-mobile.png)
 
@@ -7,7 +9,6 @@
 
 This project implements a responsive **Alternate Signup** page in _React(Next.js)_ and SCSS based on the provided [Figma Design](https://www.figma.com/file/SuBLMVyz3I3va90XPXoI9l/Alternate-Signup?type=design&node-id=1-27&mode=design&t=upiPlslFw7YVPv1T-0)
 
-Checkout demo at: [Live Demo](https://alternate-signup.netlify.app)
 ### 🚀 Tech stack and libraries used
 
 - ReactJS
