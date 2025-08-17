@@ -44,6 +44,9 @@ const Signup: FC = () => {
 
 		const id = toast.loading("Creating your account, please wait...");
 		try {
+			// request to given endpoint is made using next.js api route.
+			// please open file at /app/api/register where post request to
+			// https://atologistinfotech.com/api/register.php is been made
 			const response = await axios.post(
 				"/api/register",
 				JSON.stringify(formattedData),
